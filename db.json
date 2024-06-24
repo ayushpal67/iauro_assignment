@@ -1,0 +1,77 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "student": [
+    {
+      "firstName": "Ria",
+      "lastName": "Rai",
+      "email": "riakumari123@gmail.com",
+      "dob": "1981-10-05T12:09:39Z",
+      "gender": "Female",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "firstName": "Ramanna",
+      "lastName": "Mohan",
+      "email": "ramanna.mohan@gmail.com",
+      "dob": "1991-09-12T22:14:02Z",
+      "gender": "Male"
+    },
+    {
+      "id": 3,
+      "firstName": "Akansha",
+      "lastName": "Bhardwaj",
+      "email": "akanshabhardwaj123@gmail.com",
+      "dob": "1980-05-19T08:23:30Z",
+      "gender": "Female"
+    },
+    {
+      "id": 4,
+      "firstName": "Nimesh",
+      "lastName": "Kumar",
+      "email": "nimeshkumar@gmail.com",
+      "dob": "1992-04-28T23:34:29Z",
+      "gender": "others"
+    },
+    {
+      "id": 5,
+      "firstName": "Joy",
+      "lastName": "Das",
+      "email": "joydas12@yahoo.com",
+      "dob": "2002-06-04T05:11:37Z",
+      "gender": "Male"
+    },
+    {
+      "firstName": "Prateek",
+      "lastName": "Singh",
+      "email": "prateek123@gmail.com",
+      "dob": "2001-06-18T18:30:00.000Z",
+      "gender": "",
+      "id": 7
+    },
+    {
+      "firstName": "Sandeep",
+      "lastName": "Tyagi",
+      "email": "sandeeptyagi@gmail.com",
+      "dob": "2001-06-18T18:30:00.000Z",
+      "gender": "Male",
+      "id": 8
+    }
+  ]
+}
